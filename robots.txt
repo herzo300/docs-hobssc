@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-qgrby3.florian-partneri.cz/sitemap.xml
